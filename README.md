@@ -1,4 +1,4 @@
- RENTALS CAMPERVAN
+ BE RENTALS CAMPERVAN
 
 The application responds to the next URLs:
 
