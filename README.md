@@ -1,7 +1,6 @@
  RENTALS CAMPERVAN
 
 The application responds to the next URLs:
-
 campervans/list
 campervans/priceMinMax?min=16900&max=17001
 campervans/van_paged?pageSize=20&pageNo=1
