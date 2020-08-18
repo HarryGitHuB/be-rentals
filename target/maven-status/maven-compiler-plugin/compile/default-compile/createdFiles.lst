@@ -1,0 +1,9 @@
+com/campervans/campervan/service/RentalServiceImp.class
+com/campervans/campervan/model/AbstractEntity.class
+com/campervans/campervan/repository/RentalRepository.class
+com/campervans/campervan/controller/RentalController.class
+com/campervans/campervan/model/RentalEntity.class
+com/campervans/campervan/service/IRentalService.class
+com/campervans/campervan/model/ImageEntity.class
+com/campervans/campervan/CampervanApplication.class
+com/campervans/campervan/exception/RecordNotFoundException.class
